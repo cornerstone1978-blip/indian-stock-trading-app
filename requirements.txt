@@ -1,0 +1,8 @@
+kiteconnect>=5.0.0
+pytz>=2024.1
+python-dotenv>=1.0.0
+pytest>=8.0.0
+streamlit>=1.30.0
+plotly>=5.18.0
+pandas>=2.0.0
+yfinance>=0.2.30
